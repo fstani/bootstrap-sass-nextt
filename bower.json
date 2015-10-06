@@ -1,0 +1,30 @@
+{
+  "name": "bootstrap-sass-nextt",
+  "homepage": "",
+  "authors": [
+    "Fabio Tani",
+    "Filipi Zimmermann",
+    "Rafael Amaral",
+    "Rodolfo Afonso"
+  ],
+  "description": "bootstrap-sass-nextt, is an extension of the bootstrap-sass with custom components.",
+  "moduleType": "globals",
+  "main": [
+    "assets/stylesheets/_bootstrap.scss",
+    "assets/javascripts/bootstrap.js"
+  ],
+  "keywords": [
+    "bootstrap",
+    "sass"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "test",
+    "bower_components",
+    "Gemfile"
+  ],
+  "dependencies": {
+    "bootstrap-sass": ">= 3.5.3"
+  }
+}
