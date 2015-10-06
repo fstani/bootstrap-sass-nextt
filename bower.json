@@ -25,6 +25,6 @@
     "Gemfile"
   ],
   "dependencies": {
-    "bootstrap-sass": ">= 3.5.3"
+    "bootstrap-sass-official": "3.3.5"
   }
 }
